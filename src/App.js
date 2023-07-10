@@ -2,6 +2,7 @@ import Header from './components/Header/Header.jsx';
 import Home from './components/Home/Home.jsx';
 import Subreddits from './components/Subreddits/Subreddits.jsx';
 import './App.css';
+import React from 'react';
 
 function App() {
   return (
