@@ -34,6 +34,7 @@ export const {
 
 export default subRedditSlice.reducer;
 
+
 export const fetchSubreddits = () => async(dispatch) =>{
     try{        
         dispatch(startGetSubreddits());
